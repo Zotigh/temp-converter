@@ -1,7 +1,8 @@
-import java.util.*;
-import java.lang.Math;
+package edu.cnm.deepdive;
 
-public class JavaApplication {
+import java.util.*;
+
+public class TempConverter {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
